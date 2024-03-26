@@ -1,0 +1,1 @@
+Para que nuestros programas sean interesantes debemos ser capaces de interactuar con un usuario, en estos paquetes veremos como leer entradas desde la terminal y dar formato a estos así como algunos metodos de la clase PrintStream, InputStream y Scanner
