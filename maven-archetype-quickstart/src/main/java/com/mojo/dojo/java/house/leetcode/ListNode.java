@@ -1,8 +1,8 @@
 package com.mojo.dojo.java.house.leetcode;
 
 public class ListNode {
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
 
     public ListNode() {
     }
@@ -11,7 +11,7 @@ public class ListNode {
         this.val = val;
     }
 
-    ListNode(int val, ListNode node) { 
+    public ListNode(int val, ListNode node) { 
         this.val = val; 
         this.next = node;
     }
